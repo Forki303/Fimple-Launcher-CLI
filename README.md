@@ -23,14 +23,13 @@
 Выполните следующие команды в вашем терминале:
 
 ```bash
-# Клонируйте репозиторий проекта
-git clone [https://github.com/Forki303/Fimple-Launcher-CLI.git](https://github.com/Forki303/Fimple-Launcher-CLI.git)
+git clone https://github.com/Forki303/Fimple-Launcher-CLI.git
 
-# Перейдите в папку с проектом
 cd Fimple-Launcher-CLI
 
-```
 python main.py
+```
+
 
 ### Поддержка
 
@@ -61,15 +60,15 @@ python main.py
 Run the following commands in your terminal:
 
 ```bash
-# Clone the repository
-git clone [https://github.com/Forki303/Fimple-Launcher-CLI.git](https://github.com/Forki303/Fimple-Launcher-CLI.git)
+git clone https://github.com/Forki303/Fimple-Launcher-CLI.git
 
-# Navigate to the project directory
+
 cd Fimple-Launcher-CLI
 
+python main.py
 ```
 
-python main.py
+
 
 ### Support
 
