@@ -62,7 +62,6 @@ Run the following commands in your terminal:
 ```bash
 git clone https://github.com/Forki303/Fimple-Launcher-CLI.git
 
-
 cd Fimple-Launcher-CLI
 
 python main.py
